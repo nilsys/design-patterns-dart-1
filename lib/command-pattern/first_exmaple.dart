@@ -58,6 +58,7 @@ class Command {
 }
 
 void main() {
+  print('========= Command pattern =========');
   var calculator = Calculator();
   calculator.add(Command(15));
   calculator.undo();
@@ -65,6 +66,8 @@ void main() {
   calculator.divide(Command(2));
   calculator.undo();
   calculator.multiply(Command(80));
+
+  print('==================================');
 
   // The output should be:
   /*

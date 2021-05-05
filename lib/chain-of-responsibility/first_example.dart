@@ -52,7 +52,7 @@ class LogZakatala extends Cargo {
 }
 
 void main() {
-  print('=== Chain of Responsibility ===');
+  print('===== Chain of Responsibility =====');
 
   var istanbulLogger = LogIstanbul(Set.from(City.values));
   var tbilisiLogger = LogTbilisi({City.Tbilisi, City.Zakatala, City.Istanbul});
@@ -67,4 +67,5 @@ void main() {
   print(tbilisiLogger.citys);
   print(bakuLogger.citys);
   print(zakatalaLogger.citys);
+  print('===================================');
 }
