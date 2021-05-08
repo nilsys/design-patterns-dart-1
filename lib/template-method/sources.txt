@@ -1,0 +1,7 @@
+Medium & Wiki article:
+ https://medium.com/flutter-community/flutter-design-patterns-3-template-method-89799d84e378
+ https://en.wikipedia.org/wiki/Template_method_pattern
+
+Video tutorials: 
+ https://www.youtube.com/watch?v=aR1B8MlwbRI
+ https://www.youtube.com/watch?v=7ocpwK9uesw
