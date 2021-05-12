@@ -1,0 +1,6 @@
+Video:
+ https://www.youtube.com/watch?v=_BpmfnqjgzQ
+
+Posts: 
+ https://scottt2.github.io/design-patterns-in-dart/observer/
+ https://medium.com/flutter-community/flutter-design-patterns-23-observer-1e1b0ea81d73
