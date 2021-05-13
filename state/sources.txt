@@ -1,0 +1,6 @@
+Videos: 
+ https://www.youtube.com/watch?v=N12L5D78MAA&t=543s
+
+Blog Posts: 
+ https://medium.com/flutter-community/flutter-design-patterns-6-state-be06cb05525c
+ https://scottt2.github.io/design-patterns-in-dart/state/
