@@ -1,0 +1,5 @@
+Video:
+ https://www.youtube.com/watch?v=K4FkHVO5iac
+
+Post: 
+ https://medium.com/flutter-community/flutter-design-patterns-7-facade-eb40434fb973
